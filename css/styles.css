@@ -1,0 +1,20 @@
+
+
+#home::before{
+  content: "";
+  background: url('/img/img1.jpg') no-repeat center center/cover ;
+  position: absolute;
+  top: 55px;
+  left: 0px;
+  height: 642px;
+  width: 100%;
+  z-index: -1;
+  opacity: 0.89;
+}
+
+.ht{
+  height: 642px;
+  text-align: center;
+  z-index: 1;
+  padding: 125px auto;
+}
